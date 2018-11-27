@@ -1,0 +1,5 @@
+package mygoroutine
+
+func init() {
+
+}
